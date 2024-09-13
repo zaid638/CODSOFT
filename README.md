@@ -1,7 +1,7 @@
 # Mini Python Projects
 <br />
 
-Created 3 mini python projrcts, **TO-DOLIST**, **CALCULATOR**, **QUIZ GAME**.
+Created 3 mini python projrcts, **TO-DO LIST**, **CALCULATOR**, **QUIZ GAME**.
 <br /><br />
 
 
